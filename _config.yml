@@ -21,7 +21,7 @@
 title: Jiří Moravčík
 email: jiri.moravcik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Backend Engineer at Apify | Master's degree in AI.
+  Backend Engineer at Apify | Master's degree in AI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jiri_moravcik
